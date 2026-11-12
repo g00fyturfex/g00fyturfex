@@ -1,16 +1,13 @@
-## Hi there 👋
+# g00fyturfex — nice to meet you 👋
 
-<!--
-**g00fyturfex/g00fyturfex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Malaysia.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **@g00fyturfex** on GitHub
+- 🌱 Learning TypeScript
+- ⚡ Fun fact: I debug faster with music on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=g00fyturfex&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=g00fyturfex&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/React-7aa2f7?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Express-7aa2f7?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/SQLite-7aa2f7?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logoColor=white" alt="TypeScript" />
